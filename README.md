@@ -76,3 +76,6 @@ _JSON Format:_
 ```sh
 jawir generate --header '{"typ":"JWT","alg":"HS256"}' --payload '{"admin":true,"iat":1516239022,"name":"John Doe","sub":"1234567890"}' --secret johnston2
 ```
+
+## Demo
+![jawir demo](./demo.gif) 
