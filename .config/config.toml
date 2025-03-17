@@ -1,0 +1,5 @@
+[source.crates-io]
+index = "https://github.com/rust-lang/crates.io-index"
+
+[http]
+proxy = ""
